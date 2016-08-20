@@ -1,0 +1,21 @@
+title,brand,store,price,in_stock
+Nike air max 2014,1,1,80,true
+Nike air max 2013,1,1,75.5,false
+Apple iPhone 5,2,1,599.99,true
+Apple iPhone 5,2,2,599.99,true
+Apple iPhone 5,2,3,549.99,true
+Apple iPhone 5,2,4,549.99,false
+Nokia Lumia 800,3,1,300,true
+Nokia Lumia 800,3,2,300,false
+Nokia Lumia 800,3,3,250,true
+Apple MacBook Air,2,3,999.99,true
+Apple MacBook Air,2,4,1099.99,true
+Samsung LED TV 51 inches,4,1,700,true
+Samsung LED TV 51 inches,4,2,900,true
+Samsung LED TV 51 inches,4,5,900,false
+Samsung Galaxy S5,4,5,539.99,true
+L'Oreal Hair Conditioner,5,1,10,false
+L'Oreal Hair Conditioner,5,6,10,false
+Moto E,6,1,200,false
+Moto G,6,1,300,true
+Moto G,6,7,330,false
