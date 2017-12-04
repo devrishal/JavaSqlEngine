@@ -1,5 +1,7 @@
 package com.rishal.valueObjects;
-
+/**
+Value object file to hold the  CSV Data
+**/
 public class TableData {
 	private String title;
 	private int brand;
