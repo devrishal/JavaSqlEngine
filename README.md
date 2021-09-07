@@ -13,6 +13,7 @@ Whenever we do operation with Queries we have to check the Syntax and Semantics.
 
 I have devided the complete problem set into following parts:
 ![alt text](https://github.com/devrishal/JavaSqlEngine/blob/master/Flow.png?raw=true)
+<br/>
 
 The classes present inside the folder Application are related to taking inputs from user, Loading data into the application and also checking the syntax of query given by the user.
 
