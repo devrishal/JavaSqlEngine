@@ -12,11 +12,7 @@ Problem solving approach is defined as below-
 Whenever we do operation with Queries we have to check the Syntax and Semantics.For these things i have used the regex patterns. Validations of all input query are done first if there is NOMATCH then error is thrown saying invalid SQL exception.
 
 I have devided the complete problem set into following parts:
-1)Syntax check.
-2)Semantics check.
-3)Criteria Evaluation.
-4)Storing (if required).
-5)Printing the results on to the console.
+![alt text](https://github.com/devrishal/JavaSqlEngine/blob/master/Flow.png?raw=true)
 
 The classes present inside the folder Application are related to taking inputs from user, Loading data into the application and also checking the syntax of query given by the user.
 
